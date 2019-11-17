@@ -15,6 +15,8 @@ Abrir usando um editor de textos para visualizar o código.
 
 ## Observações
 
+Os botões estão no canto inferior direito da tela.
+
 As adições ao código estão nas linhas 168 à 190.
 
 Foram usados scripts adicionais jquery e x-frame-bypass.
