@@ -1,8 +1,8 @@
 # Teste ArmazemPB
 # ChatBot Nice
 
-Código modificado do site do Armazém Paraíba para inclusão do ChatBot Nice na main.
-Programa para o Desafio Armazém PB
+*Código modificado do site do Armazém Paraíba para inclusão do ChatBot Nice na main.
+*Programa para o Desafio Armazém PB
 
 ## Installation
 
