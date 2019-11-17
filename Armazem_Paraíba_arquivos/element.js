@@ -1,0 +1,1 @@
+define(["knockout"],function(e){"use strict";return{elementName:"enext_amz_header_logo",elementCustomProp:e.observable(null),onLoad:function(){}}})

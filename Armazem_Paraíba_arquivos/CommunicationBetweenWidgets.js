@@ -1,0 +1,1 @@
+define(["jquery","knockout"],function(e,t){"use strict";var n=t.observable(null),r={miniCartVisible:t.observable(!1)},i={showForgottenPassword:t.observable(!1),showPasswordRedefinition:t.observable(!1),tokenAlreadyUsed:null};return{minicart:r,currency:n,registration:i}})
